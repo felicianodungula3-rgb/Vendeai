@@ -2,9 +2,9 @@
   "name": "vendeai",
   "version": "1.0.0",
   "description": "Assistente inteligente de vendas com IA",
-  "main": "server.js",
+  "main": "servidor.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node servidor.js"
   },
   "engines": {
     "node": ">=18"
